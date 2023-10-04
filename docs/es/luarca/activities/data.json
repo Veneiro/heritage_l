@@ -28,8 +28,8 @@
             {
               "id" : "99400270847",
               "type" : "music",
-              "lon" : "43.546236",
-              "lat" : "-6.527277",
+              "lon" : "-6.527277",
+              "lat" : "43.546236",
               "name" : "Conservatorio del Occidente de Asturias",
               "description" : "It's the Music School situated in Luarca, Asturias where students from different parts of Asturias go to learn music and play an instrument",
               "more" : "If you want you can inscribe in the conservatory itself(highschool shedule like) or in the music school (just half and hour a week shedule)",
@@ -41,8 +41,8 @@
             {
               "id" : "99400455820",
               "type" : "music",
-              "lon" : "43.544377",
-              "lat" : "-6.534111",
+              "lon" : "-6.534111",
+              "lat" : "43.544377",
               "name" : "La Lira",
               "description" : "The music band of Luarca, an easier way to start learning music for free and learn to play an instrument with other people",
               "more" : "",
@@ -54,8 +54,8 @@
             {
               "id" : "92086030027",
               "type" : "sports",
-              "lon" : "43.535159",
-              "lat" : "-6.512652",
+              "lon" : "-6.512652",
+              "lat" : "43.535159",
               "name" : "Spartan Box Training",
               "description" : "In this place you can get started in the world of crossfit from the beggining",
               "more" : "",
