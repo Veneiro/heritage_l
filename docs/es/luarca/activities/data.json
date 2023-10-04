@@ -26,7 +26,7 @@
             },
            "pois" : [
             {
-              "id" : "99400270692",
+              "id" : "99400270847",
               "type" : "music",
               "lon" : "43.546236",
               "lat" : "-6.527277",
@@ -36,10 +36,10 @@
               "images" : ["https://lh5.googleusercontent.com/p/AF1QipPBnhhWXqGHh1FBBICiBZCh5y-pLE-Qg4lDEYlb=w408-h306-k-no"],
               "attributions": ["","" ],
               "wikidata": "", 
-              "urls": [""]
+              "urls": []
             },
             {
-              "id" : "99400455488",
+              "id" : "99400455820",
               "type" : "music",
               "lon" : "43.544377",
               "lat" : "-6.534111",
@@ -49,10 +49,10 @@
               "images" : ["https://lh5.googleusercontent.com/p/AF1QipPTB4nzYvhkbFBGBE0BXlxdOpK7thAHcc5tl91b=w408-h306-k-no"],
               "attributions": ["" ],
               "wikidata": "", 
-              "urls": [""]
+              "urls": []
             },
             {
-              "id" : "92086030400",
+              "id" : "92086030027",
               "type" : "sports",
               "lon" : "43.535159",
               "lat" : "-6.512652",
@@ -62,7 +62,7 @@
               "images" : ["https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yMBCaKxvVc-4MmtFEkLOnA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=171.1289&pitch=0&thumbfov=100"],
               "attributions": ["", "" ],
               "wikidata": "", 
-              "urls": [""]
+              "urls": []
             }
           ]
       }        
