@@ -1,6 +1,6 @@
 {
     "meta": {
-        "app_id": "es.espinr.bcn_beach",
+        "app_id": "es.espinr.lua_activities",
         "app_title": "LUA Activities",
         "version": 1,
         "updated": "2023-04-10",
@@ -21,8 +21,8 @@
                 "text_info": "This app is created to let new people know what activities you can do in Luarca",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
-                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app-implementations/es/barcelona/beach/#get-involved",
-                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new?labels=es/barcelona&template=update_request.md&title=Update%20Request"
+                "feedback_url": "",
+                "issue_url": ""
             },
            "pois" : [
             {
